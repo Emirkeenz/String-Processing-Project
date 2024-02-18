@@ -1,0 +1,52 @@
+Caesar cipher
+1)  1. Encryption
+    2. Decryption
+    Enter choice(1,2): 1
+
+    Choose encryption method
+    1. Caesar 2. rail-fence
+    Enter choice(1,2): 1
+    Message can only be alphabetic
+    Enter message: Rome is the capital of Italy
+
+    Enter key (0-25): 3
+    Encrypted Message: Urph lv wkh fdslwdo ri Lwdob
+
+2)  1. Encryption
+    2. Decryption
+    Enter choice(1,2): 2
+
+    Choose decryption method
+    1. Caesar 2. rail-fence
+    Enter choice(1,2): 1
+    Message can only be alphabetic
+    Enter encrypted text: Urph lv wkh fdslwdo ri Lwdob
+
+    Enter key (0-25): 3
+    Decrypted Message: Rome is the capital of Italy
+
+
+Rail-fence cipher
+1)  1. Encryption
+    2. Decryption
+    Enter choice(1,2): 1
+
+    Choose encryption method
+    1. Caesar 2. rail-fence
+    Enter choice(1,2): 2
+    Enter message: It is snowing outside
+
+    Enter key(number of rails): 5
+    Encrypted Text: Iidtwnieiogssnotsu
+
+2)  1. Encryption
+    2. Decryption
+    Enter choice(1,2): 2
+
+    Choose decryption method
+    1. Caesar 2. rail-fence
+    Enter choice(1,2): 2
+    Enter message: Iidtwnieiogssnotsu
+
+    Enter key(number of rails): 5
+    Decrypted Text: Itissnowingoutside
